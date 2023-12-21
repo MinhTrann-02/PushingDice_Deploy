@@ -92,7 +92,7 @@ p.footer {
 }
 
 .progress-bar {
-  background: linear-gradient(to right, #8e44ad, #9b59b6);
+  background: linear-gradient(to right, #e1a3ca, #f5bee6);
   position: absolute;
   left: 25%;
   top: 80%;
@@ -100,7 +100,7 @@ p.footer {
   padding: 5px;
   width: 50%;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(142, 68, 173, 0.8), 0 0 20px rgba(142, 68, 173, 0.5), 0 0 30px rgba(142, 68, 173, 0.3);
+  box-shadow: 0 0 10px rgba(225, 163, 202, 0.8), 0 0 20px rgba(225, 163, 202, 0.5), 0 0 30px rgba(225, 163, 202, 0.3);
 }
 
 .progress-bar span {
@@ -109,7 +109,7 @@ p.footer {
   border-radius: 8px;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   transition: width 0.4s ease-in-out;
-  background-color: #8e44ad;
+  background-color: #f97ddc;
 }
 
 .stripes span {
